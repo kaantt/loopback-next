@@ -396,6 +396,10 @@ children:
     url: Metrics.html
     output: 'web, pdf'
 
+  - title: 'Community extensions'
+    url: Community-extensions.html
+    output: 'web, pdf'
+
 - title: 'Behind the Scenes'
   url: Behind-the-scene.html
   output: 'web, pdf'
